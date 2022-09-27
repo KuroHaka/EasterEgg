@@ -1,5 +1,5 @@
 fileName=september.mp4
-curl "https://doc-14-9c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/5pbvf47abe7r6oj2l9ok0i29blecrkdj/1664302725000/00413257880062226245/*/1rntwFXaNx5mQcFmZGSn51SKsI2ZHwqMN?e=download&amp;uuid=66880ba9-057c-4210-8d17-9eb34c2980af" -o ${fileName}
+curl "https://firebasestorage.googleapis.com/v0/b/recyclapp-adbde.appspot.com/o/september.mp4?alt=media&token=fea0b4d0-083a-4d92-b31a-6d86646fcb12" -o ${fileName}
 
 fileId=146GSgkvTHjpIZ312qkrLK582eCt9H0ey
 fileName=august.mp4
