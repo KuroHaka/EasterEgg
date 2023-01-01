@@ -1,3 +1,5 @@
+fileName=january.mp4
+curl "https://firebasestorage.googleapis.com/v0/b/recyclapp-adbde.appspot.com/o/january.mp4?alt=media&token=0e7eae39-553d-455f-9af2-f4f02e237e0f" -o ${fileName}
 fileName=december.mp4
 curl "https://firebasestorage.googleapis.com/v0/b/recyclapp-adbde.appspot.com/o/december.mp4?alt=media&token=e65bf6e4-eeea-46c8-b1cd-f9398bc0bf4a" -o ${fileName}
 fileName=november.mp4
